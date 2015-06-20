@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVP with Realm</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_add">Add</string>
+    <string name="title_add_visiting_card">Add New Card</string>
+    <string name="title_update_visiting_card">Update Card</string>
+    <string name="item_deleted">Item deleted</string>
+</resources>
