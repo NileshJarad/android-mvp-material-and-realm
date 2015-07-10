@@ -11,6 +11,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/android-mvp-material-and-realm-master" />
+            <option value="$PROJECT_DIR$/collapseexpandview" />
           </set>
         </option>
       </GradleProjectSettings>

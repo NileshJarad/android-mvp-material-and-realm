@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/android-mvp-material-and-realm-master/android-mvp-material-and-realm-master.iml" filepath="$PROJECT_DIR$/android-mvp-material-and-realm-master/android-mvp-material-and-realm-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collapseexpandview/collapseexpandview.iml" filepath="$PROJECT_DIR$/collapseexpandview/collapseexpandview.iml" />
     </modules>
   </component>
 </project>
