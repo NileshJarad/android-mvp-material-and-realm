@@ -1,1 +1,1 @@
-include ':android-mvp-material-and-realm-master', ':collapseexpandview'
+include ':android-mvp-material-and-realm-master'
