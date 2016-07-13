@@ -10,5 +10,3 @@ This contains following features
    -SnackBar
 3) Some basic functionality with Realm for Android
 
-#collapseexpandview
-This contains expand and collapse of view based on button you clicked 
